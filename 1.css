@@ -1,0 +1,11 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+}
+nav
+{
+    background-image:linear-gradient(blue,yellow);
+    height: 200px;
+}
