@@ -6,6 +6,7 @@
 }
 nav
 {
-    background-image:linear-gradient(blue,yellow);
-    height: 200px;
+    background: url(https://mcl.kiev.ua/wp-content/uploads/2020/03/epicentrk_logo.png) no-repeat;
+    height: 400px;
+    background-size: 1500px 400px;
 }
